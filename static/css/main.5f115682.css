@@ -1,0 +1,2 @@
+:root{--background:#f8ede8;--active-date:#f8ede8b5;--active-header:#000c;--date:#0006}html{background-color:#f8ede8;background-color:var(--background);font-family:Inter,sans-serif;font-weight:300}.container{display:grid;margin:2em auto auto;width:min(75vw,730px)}.container.page{align-items:start;min-height:100vh}.container h1{font-family:Newsreader;font-size:70px;font-weight:600;margin-bottom:0}.container p{margin-bottom:3em}.container.center{align-items:center;display:grid;justify-content:center;margin:1em auto auto}
+/*# sourceMappingURL=main.5f115682.css.map*/
