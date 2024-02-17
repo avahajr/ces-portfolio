@@ -1,38 +1,30 @@
-:root {
-  --background: #f8ede8;
-  --active-date: #f8ede8b5;
-  --active-header: rgba(0, 0, 0, 0.8);
-  --date: rgba(0, 0, 0, 0.4);
-}
-html {
-  background-color: var(--background);
+html,
+* {
   font-family: "Inter", sans-serif;
   font-weight: 300;
 }
-.container {
-  display: grid;
-  margin: auto;
-  margin-top: 2em;
-  width: min(75vw, 730px);
-}
-.container.page {
-  min-height: 100vh;
-  align-items: start;
-}
-.container h1 {
-  font-family: "Newsreader";
-  font-weight: 600;
-  font-size: 70px;
-  margin-bottom: 0;
-}
-.container p {
-  margin-bottom: 3em;
-}
 
-.container.center {
-  display: grid;
-  align-items: center;
-  margin: auto;
-  margin-top: 1em;
-  justify-content: center;
+.title-row {
+  margin-top: 3em;
+}
+.post-date {
+  display: flex;
+  gap: 5px;
+  justify-content: flex-end;
+}
+.date {
+  font-family: "Newsreader", serif !important;
+  font-weight: 300;
+  font-style: italic;
+}
+.subtitle-row {
+  padding-bottom: 10px;
+  border-bottom: 1px dotted lightgray;
+  margin-bottom: 10px;
+  color: gray;
+}
+.timestamp-row {
+  color: lightgray;
+  display: flex;
+  text-align: end;
 }

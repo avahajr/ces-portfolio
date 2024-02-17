@@ -1,12 +1,15 @@
 import React from "react";
 import "./styles/main.css";
+import BlogPost from "./components/BlogPost";
 function App() {
   return (
     <div className="App">
-      <div className="container">
-        <h1>Nothing here yet.</h1>
-        <p>Check back soon.</p>
-      </div>
+      <BlogPost
+        title="Heartboids"
+        subtitle="Creative Embedded Systems - Module 1"
+        date={new Date()}
+        postNo={1}
+      ></BlogPost>
     </div>
   );
 }
