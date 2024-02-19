@@ -28,3 +28,9 @@ html,
   display: flex;
   text-align: end;
 }
+.caption {
+  color: gray;
+  font-style: italic;
+  margin-bottom: 20px;
+  padding-top: 5px;
+}
