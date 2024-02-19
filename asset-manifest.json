@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ces-portfolio/static/css/main.70d8c07c.css",
-    "main.js": "/ces-portfolio/static/js/main.04a1b022.js",
-    "static/js/941.8853fade.chunk.js": "/ces-portfolio/static/js/941.8853fade.chunk.js",
+    "main.css": "/ces-portfolio/static/css/main.3d7c1f86.css",
+    "main.js": "/ces-portfolio/static/js/main.f6cdbe69.js",
     "static/js/787.f14ac5aa.chunk.js": "/ces-portfolio/static/js/787.f14ac5aa.chunk.js",
     "index.html": "/ces-portfolio/index.html",
-    "main.70d8c07c.css.map": "/ces-portfolio/static/css/main.70d8c07c.css.map",
-    "main.04a1b022.js.map": "/ces-portfolio/static/js/main.04a1b022.js.map",
+    "main.3d7c1f86.css.map": "/ces-portfolio/static/css/main.3d7c1f86.css.map",
+    "main.f6cdbe69.js.map": "/ces-portfolio/static/js/main.f6cdbe69.js.map",
     "787.f14ac5aa.chunk.js.map": "/ces-portfolio/static/js/787.f14ac5aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70d8c07c.css",
-    "static/js/main.04a1b022.js"
+    "static/css/main.3d7c1f86.css",
+    "static/js/main.f6cdbe69.js"
   ]
 }
