@@ -230,6 +230,13 @@ function BlogPost({ title, subtitle, date, demo }: BlogPostProps) {
         </Col>
         <Col md={3}></Col>
       </Row>
+
+      <Row className="footer">
+        <Col md={12} className="justify-content-right">
+          Check out{" "}
+          <a href="https://github.com/avahajr/heartboids">the repo!</a>
+        </Col>
+      </Row>
     </Container>
   );
 }
